@@ -4,6 +4,12 @@
 
 This repository contains the [Marp](https://marpit.marp.app/) project and export for the talk "*Open source, check, security, check: A checklist for securing open source projects*".
 
+## Abstract
+
+> Open source software powers much of the technology we use today, from Linux and Kubernetes to Git. However, open source projects often face resource constraints. Contributors typically have limited time and budget to invest, which can lead to a focus only on user-facing features. This can sometimes come at the expense of important but less flashy tasks like security best practices, automated builds, and unit testing.
+> 
+> Our talk, "Open Source Security: Simple Steps for Big Impact," addresses the first challenge. We'll present a clear and actionable checklist that open source maintainers can use to improve the security of their projects, even with limited resources.
+
 ## Preview
 
 <a href="export.pdf">
