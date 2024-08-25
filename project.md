@@ -4,6 +4,12 @@ theme: default
 ---
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root {
+  font-family: "Lora", serif;
+}
+
 img[alt~="center"] {
   display: block;
   margin: 0 auto;
@@ -41,23 +47,14 @@ div.twocols p.break {
 
 ---
 
-![center](images/mutablesecurity.png)
+## @iosifache
 
----
-
-![height:400px center](images/army.jpg)
-
----
-
-![height:400px center](images/ust.jpg)
-
----
-
-![height:400px center](images/usp.png)
-
----
-
-![height:400px center](images/origo.jpg)
+* Ex-builder at MutableSecurity
+* Ex-security engineer @ Romanian Army and Canonical
+* Security engineer in Snap Inc.
+* Open source maintainer
+* GSoC mentor for OpenPrinting
+* Enthusiast of good coffee, long runs/hikes, and quality time
 
 ---
 
@@ -69,20 +66,20 @@ div.twocols p.break {
 
 ### YES,
 
-- Large scale use in:
+* Large scale use in:
   - Profitable companies
   - Critical infrastructures
-- Permissive licences
-- Publicly reviewable code
+* Permissive licences
+* Publicly reviewable code
 
 <p class="break"></p>
 
 ### BUT
 
-- Unpaid maintainers
-- Unmaintained, vulnerable projects
-- Lack of ethical security testing 
-- Low-hanging fruits for threat actors
+* Unpaid maintainers
+* Unmaintained, vulnerable projects
+* Lack of ethical security testing 
+* Low-hanging fruits for threat actors
 
 </div>
 
@@ -94,9 +91,9 @@ div.twocols p.break {
 
 ## ~~Notations~~ Emoji time!
 
-☑️ for (wanna-be) one-time activities
-🔁 for recurrent activities
-📦 for closed source friendly activities
+* ☑️ for (wanna-be) one-time activities
+* 🔁 for recurrent activities
+* 📦 for closed source friendly activities
 
 ---
 
@@ -122,7 +119,7 @@ div.twocols p.break {
 
 ---
 
-![height:500px center](images/browserify_deps.png)
+![height:500px center](images/discordjs_deps.png)
 
 ---
 
@@ -132,11 +129,11 @@ div.twocols p.break {
 
 ---
 
-1. Run multiple tools
-2. Aggregate the results (e.g., with the [SARIF](https://sarifweb.azurewebsites.net/) format)
-3. Review the results
-4. Suppress the false positives
-5. Create automation for development environments and CI workflows
+1) Run multiple tools
+2) Aggregate the results (e.g., with the [SARIF](https://sarifweb.azurewebsites.net/) format)
+3) Review the results
+4) Suppress the false positives
+5) Create automation for development environments and CI workflows
 
 ---
 
@@ -218,7 +215,7 @@ div.twocols p.break {
 
 ---
 
-![height:500px center](images/security_backup.png)
+![height:500px center](images/nodejs_security_team.png)
 
 ---
 
@@ -228,7 +225,7 @@ div.twocols p.break {
 
 ---
 
-![height:300px center](images/vuln_info.png)
+![height:500px center](images/cve_details.png)
 
 ---
 
@@ -236,13 +233,13 @@ div.twocols p.break {
 
 ---
 
-### The OSS Fortress
+### The Open Source Fortress
 
-- Workshop for finding software vulnerabilities using open source tools
-- Vulnerable-by-default Python and C web application
-- Tasks (and solutions) for linting, code querying, secret scanning, dependency scanning, fuzzing, and symbolic execution
-- [`iosifache/oss_fortress` on GitHub](https://github.com/iosifache/oss_fortress)
-- [`ossfortress.io` as a wiki](https://ossfortress.io/)
+* Workshop for finding software vulnerabilities using open source tools
+* Vulnerable-by-default Python and C web application
+* Tasks (and solutions) for linting, code querying, secret scanning, dependency scanning, fuzzing, and symbolic execution
+* [`iosifache/oss_fortress` as a GitHub repository](https://github.com/iosifache/oss_fortress)
+* [`ossfortress.io` as a wiki](https://ossfortress.io/)
 
 ---
 
@@ -250,9 +247,6 @@ div.twocols p.break {
 
 ---
 
-# `ping @iosifache`
+![height:300px center](./images/linkedin_qr.png)
 
-- Website: [iosifache.me](https://iosifache.me)
-- GitHub: [@iosifache](https://github.com/iosifache)
-- X: [@iosifache](https://x.com/iosifache)
-- LinkedIn: [@iosifache](https://www.linkedin.com/in/iosifache/)
+<center><h1>Say hi!</h1></center>
